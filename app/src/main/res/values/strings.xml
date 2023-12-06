@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MLKitTranslator</string>
+    <string name="EnterText">Texto a ser traduzido</string>
+</resources>
